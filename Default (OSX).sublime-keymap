@@ -1,0 +1,5 @@
+[
+  { "keys": ["super+r"], "command": "run_tests", "args": {"scope": "file"} },
+  { "keys": ["super+shift+r"], "command": "run_tests", "args": {"scope": "line"} },
+  { "keys": ["super+shift+o"], "command": "open_rspec_file", "args": {"option": "next"} }
+]

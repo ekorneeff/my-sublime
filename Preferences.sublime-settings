@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"cucumber_command": "bundle exec rspec --drb",
+	"font_face": "PT Mono",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}

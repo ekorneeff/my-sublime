@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"GitGutter",
+		"MarkdownEditing",
+		"Package Control",
+		"Rails Developer Snippets",
+		"RailsCasts Colour Scheme",
+		"RSpec",
+		"Sass",
+		"SublimeGit"
+	]
+}
